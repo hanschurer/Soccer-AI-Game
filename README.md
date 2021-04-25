@@ -2,4 +2,4 @@
 
 2 minute video introduction of the game: https://youtu.be/4LsVB76mdgE
 
-The relevant documentation and a description of the gameplay can be found in the Doc folder.
+The relevant documentation and a description of the gameplay can be found in Soccer AI.pdf
